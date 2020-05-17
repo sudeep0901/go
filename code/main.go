@@ -38,4 +38,10 @@ func main() {
 	fmt.Println(pi + 3)
 	fmt.Println(pi)
 
+	var ii int
+
+	for ii < 5 {
+		println((ii))
+		ii++
+	}
 }
