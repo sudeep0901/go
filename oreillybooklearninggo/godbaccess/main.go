@@ -34,6 +34,16 @@ func main() {
 		ParseTime: true,
 	}
 
+
+
+// // Get a driver-specific connector.
+// connector, err := mysql.NewConnector(&cfg)
+// if err != nil {
+//     log.Fatal(err)
+// }
+
+// // Get a database handle.
+// db = sql.OpenDB(connector)
 	    // Get a database handle.
 
 		var err error
