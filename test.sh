@@ -1,0 +1,1 @@
+$HOME/ab-sfe-f9/bin/job_wrapper.sh -c /opt/app/ adison/ab-sfe-f9/conf/sfef9_jobs.xml -I $(date ‘+\%Y-\%m-\%d’) -l NIELSEN_ORDERLINE_JOB_LIST &
